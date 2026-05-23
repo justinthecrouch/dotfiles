@@ -1,3 +1,10 @@
+#Note: For these settings to work as desired, you'll need to do a couple of things:
+#	1) Install starship - duh
+#	2) Add the following to the top of your .zshrc file:
+#		eval "$(starship init zsh)"
+#	3) Install a NerdFont (https://www.nerdfonts.com) and set the
+#.         terminal to use it.
+
 "$schema" = 'https://starship.rs/config-schema.json'
 
 format = """
