@@ -1,15 +1,12 @@
-#theme = Catppuccin Mocha
-background = #E2E1CB
-#foreground = #49302E
-foreground = #3B3836
-background-opacity = 0.85
+theme = Catppuccin Mocha
+
+background-opacity = 0.95
+
+# Blurs whatever is behind the window
+background-blur-radius = 20
 
 font-family = Hack Nerd Font Mono
 font-size = 14
-background-opacity = 0.95
-#gtk-titlebar = false
-
-#background - 226 225 203
 
 # Slowdown mouse scrolling
 mouse-scroll-multiplier = 0.95
